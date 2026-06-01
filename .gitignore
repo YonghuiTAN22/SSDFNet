@@ -1,1 +1,18 @@
 .claude/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Model artifacts
+*.pth
+*.pt
+*.ckpt
+
+# Misc
+*.log
